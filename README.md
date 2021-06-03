@@ -9,4 +9,4 @@ In particular, we provide ready-to-run jupyter notebooks, which apply *PredDiff*
 * **(tabular) MNIST** (`mnist.ipynb`): (Interaction) relevances for a classifier trained on MNIST seen as a tabular dataset
 
 # Requirements
-Install dependencies from `pred_diff.yml` by running `conda env create -f preddiff.yml` and activate the environment via `conda activate preddiff`
+Install dependencies from `preddiff.yml` by running `conda env create -f preddiff.yml` and activate the environment via `conda activate preddiff`
